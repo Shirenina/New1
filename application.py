@@ -6,3 +6,4 @@ print("BUGFIX")
 =======
 print("NEW_API")
 >>>>>>> new_api
+print("another one")
